@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+}
+
+div#myNews{
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid #3955ff;
+
+}
+
+div#myNews div{
+    background-color: #fdffd5;
+    padding: 5px;
+    margin: 5px;
+}
+
+div#myNews div span{
+
+}
